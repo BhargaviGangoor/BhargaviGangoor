@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhargaviGangoor
-- 👀 I’m interested in coding,music and binge watching
-- 🌱 I’m currently learning C
+- 👀 I’m interested in coding,music and frontend programming
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on exciting coding projects
 - 📫 Reach me on my mail id:bhargavirnsit@gmail.com
 - 😄 Pronouns:she,her
