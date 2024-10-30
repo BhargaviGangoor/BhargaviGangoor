@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on exciting coding projects
 - 📫 Reach me on my mail id:bhargavirnsit@gmail.com
 - 😄 Pronouns:she,her
-- ⚡ Fun fact:None.Lots to discover within!
+- ⚡ Fun fact:None.Lots to discover within me!
+
 
 <!---
 BhargaviGangoor/BhargaviGangoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
