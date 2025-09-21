@@ -5,11 +5,11 @@
 
 Hey Peeps!! 👋 I’m Bhargavi  
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF69B4&width=500&lines=Engineering+Student)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF69B4&width=500&lines=Innovator)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF69B4&width=500&lines=Aesthetic+Freak+on+Web+Dev)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF69B4&width=500&lines=Inquisitive+CyberSecurity+Student)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF69B4&width=500&lines=Artificial+Intelligence+Geek)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=FF69B4&width=500&lines=Engineering+Student)
 
 
 
