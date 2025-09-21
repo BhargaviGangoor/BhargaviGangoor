@@ -5,7 +5,8 @@
 
 Hey Peeps!! 👋 I’m Bhargavi  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Engineering+Student+%7C+Tech+Explorer;AI+%26+Cybersecurity+Enthusiast;Web+Developer+%7C+DSA+Learner)](https://git.io/typing-svg)
+[[TypingSVG(https://readmetypingsvg.herokuapp.comfont=Fira+Code&pause=500&color=FF69B4&width=550&lines=Innovator;Aesthetic+Freak+on+Web+Dev;Inquisitive+CyberSecurity+Student;Artificial+Intelligence+Geek;Engineering+Student&center=true&size=24&multiline=true)](https://git.io/typing-svg)
+
 
 ---
 
