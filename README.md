@@ -46,11 +46,10 @@
 <div align="center">
   
   <!-- GitHub Stats -->
- <img src="https://github-readme-stats.vercel.app/api?username=BhargaviGangoor&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhargaviGangoor&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargaviGangoor&layout=compact&theme=tokyonight" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BhargaviGangoor&show_icons=true&theme=tokyonight" />
 
-
+<img src="https://streak-stats.demolab.com?user=BhargaviGangoor&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargaviGangoor&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -59,7 +58,8 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=BhargaviGangoor&theme=dracula&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=BhargaviGangoor&theme=dracula&no-frame=true" />
+
 
 
 </div>
