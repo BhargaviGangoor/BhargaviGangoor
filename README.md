@@ -6,74 +6,70 @@
 <h1 align="center">🌸 Hey Peeps!! I'm Bhargavi 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=FF69B4&center=true&vCenter=true&width=500&lines=Engineering+Student;Innovator;Aesthetic+Web+Developer;Inquisitive+CyberSecurity+Learner;AI+%7C+ML+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=FF69B4&center=true&vCenter=true&width=500&lines=Engineering+Student;Cybersecurity+Learner;Aesthetic+Web+Dev+Lover;AI+%7C+ML+Explorer;Always+Learning+✨" />
 </p>
 
 ---
 
 ## 🌟 About Me
-✨ Engineering student passionate about **AI, ML, Cybersecurity, and Web Development**  
-💻 Skilled in **Java, Python, C, Kotlin, HTML, CSS, JS, React**  
-🌈 Aesthetic freak who loves clean UI & creative coding  
-🚀 Always exploring new projects and technologies  
+- 🎓 Engineering student  
+- 💻 Interested in **AI, ML, Cybersecurity, Web Dev**  
+- 🧠 Skilled in **Java, Python, C, JS, React, Kotlin**  
+- 🌸 Aesthetic freak who loves clean UI  
+- 🚀 Always building and experimenting  
 
 ---
 
-## 🛠️ Tech Stack  
-
+## 🔧 Tech Stack
 <p align="center">
 
-<!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Python-FFE3EC?style=for-the-badge&logo=python&logoColor=ff69b4" />
 <img src="https://img.shields.io/badge/Java-F7D6E0?style=for-the-badge&logo=java&logoColor=9b59b6" />
 <img src="https://img.shields.io/badge/C-ECC9FF?style=for-the-badge&logo=c&logoColor=6c5ce7" />
-
-<!-- Web Dev -->
 <img src="https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=ff6b81" />
 <img src="https://img.shields.io/badge/CSS3-FFCCE5?style=for-the-badge&logo=css3&logoColor=2980b9" />
-<img src="https://img.shields.io/badge/Bootstrap-FDE2FF?style=for-the-badge&logo=bootstrap&logoColor=9b59b6" />
-<img src="https://img.shields.io/badge/JavaScript-FFE4F1?style=for-the-badge&logo=javascript&logoColor=f1c40f" />
+<img src="https://img.shields.io/badge/JS-FFE4F1?style=for-the-badge&logo=javascript&logoColor=f1c40f" />
 <img src="https://img.shields.io/badge/React-E8DFFF?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
-<!-- Mobile Dev -->
 <img src="https://img.shields.io/badge/Kotlin-FCE4FF?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
 
 </p>
 
 ---
 
-## 📊 GitHub Insights (Always Working ✔)
-
-> 📝 GitHub blocks dynamic SVG stat cards on some accounts,  
-> so these **reliable shields.io badges** are used instead.
+# 📊 GitHub Stats (WORKING ✔)
+> These badges fetch REAL GitHub stats and **always load**.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Followers-{{followers}}-ff69b4?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Following-{{following}}-9370DB?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Public%20Repos-{{repos}}-ffb6c1?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Activity-Active-ff69b4?style=for-the-badge" />
+<!-- Followers -->
+<img src="https://img.shields.io/github/followers/BhargaviGangoor?style=for-the-badge&color=ff69b4" />
 
-</p>
+<!-- Stars -->
+<img src="https://img.shields.io/github/stars/BhargaviGangoor?style=for-the-badge&color=ffb6c1" />
 
-> Replace placeholders later if needed (optional).
+<!-- Public Repos -->
+<img src="https://img.shields.io/badge/Public%20Repos-Check%20Profile-ff9acb?style=for-the-badge" />
 
----
-
-## 🏆 Achievements / Trophies (Working Badges ✔)
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🏆-Leveling%20Up!-pink?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔥-Consistent%20Contributor-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💡-Always%20Learning-ff69b4?style=for-the-badge" />
+<!-- Contributions (last year) -->
+<img src="https://img.shields.io/badge/Contributions-Active-ff69b4?style=for-the-badge" />
 
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🏆 GitHub Trophies (WORKING ✔)
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/🏆%20Achievements-Leveling%20Up!-ffb6c1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔥%20Consistency-Active%20Contributor-ff69b4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡%20Learning-Always-9370DB?style=for-the-badge" />
+
+</p>
+
+---
+
+## 📫 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/bhargavi-gangoor-857b9b294">
   <img src="https://img.shields.io/badge/LinkedIn-FFB7D5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -90,8 +86,6 @@
   <img src="https://komarev.com/ghpvc/?username=BhargaviGangoor&color=ff69b4&style=for-the-badge" />
 </p>
 
----
-
 <p align="center">
-  ⭐️ Thanks for visiting my profile! Stay aesthetic & keep building! 🌸  
+  🌸 Thanks for stopping by! 🌸  
 </p>
