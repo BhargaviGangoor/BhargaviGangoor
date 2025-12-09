@@ -46,13 +46,10 @@
 <div align="center">
   
   <!-- GitHub Stats -->
-  <img width="48%" src="https://github-readme-stats-bhargavi.vercel.app/api?username=BhargaviGangoor&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=ff9acb&text_color=d8b4e2&icon_color=ff9acb" />
+ <img src="https://github-readme-stats.vercel.app/api?username=BhargaviGangoor&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhargaviGangoor&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargaviGangoor&layout=compact&theme=tokyonight" width="45%" />
 
-  <!-- Streak Stats -->
-  <img width="48%" src="https://streak-stats.demolab.com/?user=BhargaviGangoor&theme=tokyonight&background=00000000&ring=ff9acb&currStreakLabel=ff9acb" />
-
-  <!-- Top Languages -->
-  <img width="45%" src="https://github-readme-stats-bhargavi.vercel.app/api/top-langs/?username=BhargaviGangoor&layout=compact&theme=tokyonight&bg_color=00000000&title_color=ff9acb&text_color=d8b4e2" />
 
 </div>
 
@@ -62,19 +59,10 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=BhargaviGangoor&theme=juicyfresh&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BhargaviGangoor&theme=dracula&no-frame=true&row=1&column=6" />
+
 
 </div>
-
----
-
-# 🎵 Spotify – Now Playing
-
-<p align="center">
-  
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31s7q2snoh6swt3xnbc6rhg6n3ru&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true">
-
-</p>
 
 ---
 
