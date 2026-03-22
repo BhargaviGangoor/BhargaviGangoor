@@ -68,6 +68,7 @@
   <img src="https://img.shields.io/badge/TypeScript-EAD9FF?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-E8DFFF?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-FAD0E9?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/FastAPI-EAD9FF?style=for-the-badge&logo=fastapi&logoColor=009688" />
 </p>
 
 <p align="center">⋆ ─ ✦ ─ ⋆</p>
