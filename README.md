@@ -28,7 +28,7 @@
 
 ## ✨ What I Do
 - 🌸 Build aesthetic & interactive frontend UIs  
-- 🤖 Train and experiment with **ML models**  
+- 🤖 Train and experiment with **ML models & RAG pipelines**  
 - 🔐 Solve cybersecurity CTF-style problems  
 - 💡 Create small tools, scripts & automations  
 - 🧠 Focus on clarity, clean code & logic  
@@ -67,16 +67,38 @@
   <img src="https://img.shields.io/badge/JavaScript-FFE4F2?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-EAD9FF?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-E8DFFF?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-FAD0E9?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
   <img src="https://img.shields.io/badge/FastAPI-EAD9FF?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 <p align="center">⋆ ─ ✦ ─ ⋆</p>
 
-<p align="center"><strong>Mobile Development</strong></p>
+<p align="center"><strong>Databases</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-FCE4FF?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-DBB4FF?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-E8DFFF?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-F7D6E0?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/SQLite-F0D9FF?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+</p>
+
+<p align="center">⋆ ─ ✦ ─ ⋆</p>
+
+<p align="center"><strong>Cloud Services (AWS)</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/ECS-FFD1DF?style=for-the-badge&logo=amazonecs&logoColor=white" />
+  <img src="https://img.shields.io/badge/RDS-EAD9FF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/IAM-FAD0E9?style=for-the-badge&logo=awsiam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+<p align="center">⋆ ─ ✦ ─ ⋆</p>
+
+<p align="center"><strong>Machine Learning & AI</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7C6D9?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FFE4F2?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/pgvector-EAD9FF?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector%20Embeddings-DBB4FF?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 <p align="center">⋆ ─ ✦ ─ ⋆</p>
@@ -87,7 +109,6 @@
   <img src="https://img.shields.io/badge/NumPy-E8DFF0?style=for-the-badge&logo=numpy&logoColor=013243" />
   <img src="https://img.shields.io/badge/Matplotlib-FFE3F2?style=for-the-badge&logo=databricks&logoColor=purple" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7D6E0?style=for-the-badge&logo=scikitlearn&logoColor=f7931e" />
-  <img src="https://img.shields.io/badge/Tkinter-F0D9FF?style=for-the-badge&logo=python&logoColor=black" />
 </p>
 
 <p align="center">⋆ ─ ✦ ─ ⋆</p>
@@ -98,11 +119,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-FFD6EC?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/Git-FCDFFF?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-FFE4F2?style=for-the-badge&logo=github&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Android%20Studio-EAD9FF?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Grafana-FAD0E9?style=for-the-badge&logo=grafana&logoColor=F46800" />
   <img src="https://img.shields.io/badge/Postman-FAD0E9?style=for-the-badge&logo=postman&logoColor=FF6C37" />
   <img src="https://img.shields.io/badge/Figma-F7C6D9?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-  <img src="https://img.shields.io/badge/PyCharm-FFCCE5?style=for-the-badge&logo=pycharm&logoColor=000000" />
 </p>
 
 <p align="center">✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧</p>
