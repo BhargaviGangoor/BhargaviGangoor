@@ -16,48 +16,57 @@
 
 # 🚀 About Me
 
-- 🧠 Building **AI-powered full stack systems** (not just models)  
-- ⚙️ Designing **backend architectures (FastAPI + PostgreSQL + vector DBs)**  
-- 🤖 Working on **RAG pipelines, embeddings & intelligent retrieval systems**  
-- 🔐 Exploring **cybersecurity in AI & cloud environments**  
-- ☁️ Deploying systems using **AWS (S3, ECS, RDS, IAM, Bedrock)**  
-- 🎯 Focused on **scalable, secure, production-ready systems**
+- 🧠 Build **AI-powered full stack systems**  
+- ⚙️ Focus on **backend architecture + system design**  
+- 🤖 Work with **RAG, embeddings & intelligent retrieval systems**  
+- 🔐 Interested in **security in AI + cloud environments**  
+- ☁️ Explore **cloud-native deployments (AWS)**  
+- 🎯 Aim for **scalable, secure, production-ready systems**
 
 <p align="center">✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧</p>
 
 ---
 
-# 🧩 What I Build
+# 🧩 Core Areas
 
-### 🔥 AI-Integrated Applications
-- RAG systems with embeddings + vector search  
-- Context-aware intelligent assistants  
+### 🤖 AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Vector embeddings & semantic search
+- Context-aware intelligent pipelines
 
-### 🏗️ Backend Systems
-- Authentication (OTP, OAuth, Passkeys)  
-- REST APIs with FastAPI  
-- Database design (PostgreSQL + pgvector)  
+---
 
-### 🌐 Full Stack Applications
-- React frontend + API-driven backend  
-- Clean UI + strong system logic  
+### 🏗️ Backend Engineering
+- API design (FastAPI)
+- Authentication systems (OTP, OAuth, Passkeys)
+- Database architecture (PostgreSQL + pgvector)
 
-### 🔐 Security-Oriented Systems
-- Secure authentication flows  
-- API protection, rate limiting, CAPTCHA  
-- CTF-style problem solving mindset  
+---
+
+### 🌐 Full Stack Development
+- React-based frontend systems
+- API-driven architecture
+- Clean UI + functional UX
+
+---
+
+### 🔐 Security & Reliability
+- Bot protection (Cloudflare Turnstile)
+- Rate limiting & abuse prevention
+- Secure authentication flows
+- CTF-style problem solving mindset
 
 <p align="center">⋆ ─ ✦ ─ ⋆</p>
 
 ---
 
-# 💡 Core Strengths
+# 💡 Strengths
 
-- Systems thinking (not just coding features)  
-- Strong backend + architecture mindset  
-- Ability to integrate **AI into real products**  
-- Fast learner + deep curiosity  
-- Clean, scalable, maintainable code  
+- Systems thinking over feature thinking  
+- Strong backend + integration mindset  
+- Ability to combine **AI + real-world applications**  
+- Clean, structured and scalable coding style  
+- Fast learner with deep curiosity  
 
 <p align="center">✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧</p>
 
@@ -76,7 +85,7 @@
 
 ---
 
-## 🌐 Full Stack Development
+## 🌐 Full Stack
 <p align="center">
   <img src="https://img.shields.io/badge/React-E8DFFF?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/FastAPI-EAD9FF?style=for-the-badge&logo=fastapi&logoColor=009688" />
@@ -106,22 +115,23 @@
 
 ---
 
-## ☁️ Cloud (AWS)
+## ☁️ Cloud
 <p align="center">
-  <img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/ECS-FFD1DF?style=for-the-badge&logo=amazonecs&logoColor=white" />
-  <img src="https://img.shields.io/badge/RDS-EAD9FF?style=for-the-badge&logo=amazonrds&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-FAD0E9?style=for-the-badge&logo=awsiam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-ECS-FFD1DF?style=for-the-badge&logo=amazonecs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-RDS-EAD9FF?style=for-the-badge&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-IAM-FAD0E9?style=for-the-badge&logo=awsiam&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-## 🔐 Security
+## 🔐 Security & Protection
 <p align="center">
+  <img src="https://img.shields.io/badge/Cloudflare%20Turnstile-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Security-FAD0E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Authentication%20Systems-FFCCE5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CTF%20Practice-EAD9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rate%20Limiting-EAD9FF?style=for-the-badge" />
 </p>
 
 ---
@@ -135,16 +145,14 @@
   <img src="https://img.shields.io/badge/Figma-F7C6D9?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
-<p align="center">✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧</p>
-
 ---
 
 # 🌱 Current Focus
 
-- Advanced **RAG architectures**  
-- **AI + backend integration**  
-- **Secure authentication systems (Passkeys, OAuth, OTP)**  
-- Building **real-world deployable systems**
+- Advanced **RAG architectures**
+- AI + backend integration
+- Secure authentication systems
+- Building scalable, real-world systems
 
 ---
 
