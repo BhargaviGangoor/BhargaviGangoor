@@ -173,3 +173,9 @@
 <p align="center">
   🌸 Building systems > writing code 🌸
 </p>
+---
+
+## 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BhargaviGangoor&color=ff69b4&style=for-the-badge" />
+</p>
