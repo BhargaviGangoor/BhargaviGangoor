@@ -132,12 +132,9 @@
   <img src="https://img.shields.io/badge/Postman-CDEFE6?style=for-the-badge&logo=postman&logoColor=FF6C37" />
   <img src="https://img.shields.io/badge/Grafana-D6F5EC?style=for-the-badge&logo=grafana&logoColor=F46800" />
   <img src="https://img.shields.io/badge/Figma-A6E3D5?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</p>
+</p>p?
 
-<p align="center">
-  <img src="https://i.imgflip.com/9j1z0z.jpg" width="360" alt="git commit meme" />
-  <br><sub><i>git commit -m "fixed it (probably)"</i></sub>
-</p>
+
 
 ---
 
