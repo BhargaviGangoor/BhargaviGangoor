@@ -16,16 +16,6 @@
 
 <p align="center">✨ ─ 🍵 ─ ✨</p>
 
-# Bhargavi 🌀💻
-
-![Overthinker](https://img.shields.io/badge/🌀-Overthinker-blueviolet?style=for-the-badge)
-![Coder](https://img.shields.io/badge/💻-Coder-success?style=for-the-badge)
-![Film Line](https://img.shields.io/badge/🎬-"Genius%2C%20billionaire%2C%20playboy%2C%20philanthropist"-orange?style=for-the-badge)
-
----
-✨ Okay, maybe just coder.
-
-
 # 🧩 Core Areas
 
 ### 🤖 AI Systems
@@ -48,7 +38,6 @@
 ### 🔐 Cloud & AI Security
 - Threat modeling for AI/LLM-integrated systems
 - Cloud security best practices (AWS IAM, secure infra)
-- Bot protection (Cloudflare Turnstile)
 - Rate limiting & abuse prevention
 - Secure authentication flows
 - Identity Access Management
