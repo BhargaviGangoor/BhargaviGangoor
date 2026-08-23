@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="380" />
 </p>
 
 <h1 align="center">Hey, I'm Bhargavi — I build things that (mostly) don't break</h1>
