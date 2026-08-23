@@ -4,14 +4,14 @@
   <img src="https://img.shields.io/badge/probably%20debugging%20rn-CDEFE6?style=for-the-badge&labelColor=1F2A44" />
 </p>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="28" />
-  Hey, I'm Bhargavi — I build things that (mostly) don't break
-  <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="28" />
-</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="60" />
+</p>
+
+<h1 align="center">Hey, I'm Bhargavi — I build things that (mostly) don't break</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6DD3CE&center=true&vCenter=true&width=650&lines=RAG+Systems+Builder+%F0%9F%A7%A0;Secure+Backend+Engineer+%F0%9F%94%90;Cloud+%2B+AI+Security+Explorer+%E2%98%81%EF%B8%8F;Ships+code%2C+not+excuses+%F0%9F%9A%80;99+bugs+in+the+code%2C+99+bugs...+%F0%9F%90%9B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6DD3CE&center=true&vCenter=true&width=650&lines=Secure+Backend+Engineer+%F0%9F%94%90;Cloud+%2B+AI+Security+Explorer+%E2%98%81%EF%B8%8F;99+bugs+in+the+code%2C+99+bugs...+%F0%9F%90%9B" />
 </p>
 
 <p align="center">✨ ─ 🍵 ─ ✨</p>
@@ -20,7 +20,7 @@
 
 # 🚀 About Me
 
-- 🧠 Build **AI-powered systems**
+- 🧠 Build **efficient software applications**
 - ⚙️ Focus on **backend architecture + system design**
 - 🤖 Work with **RAG, embeddings & intelligent retrieval systems**
 - 🔐 Interested in **security in AI + cloud environments**
@@ -42,6 +42,9 @@
 - Retrieval-Augmented Generation (RAG)
 - Vector embeddings & semantic search
 - Context-aware intelligent pipelines
+- LLMs
+- Machine Learning
+- Deep Learning
 
 ---
 
@@ -58,6 +61,7 @@
 - Bot protection (Cloudflare Turnstile)
 - Rate limiting & abuse prevention
 - Secure authentication flows
+- Identity Access Management
 
 <p align="center">⋆ ─ ✦ ─ ⋆</p>
 
@@ -77,7 +81,7 @@
 
 # 🔧 Tech Stack
 
-## 💻 Programming Languages
+## 💻 Languages & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Python-D6F5EC?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Java-E8F7F1?style=for-the-badge&logo=java&logoColor=007396" />
@@ -85,12 +89,6 @@
   <img src="https://img.shields.io/badge/C-1F2A44?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-D6F5EC?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-CDEFE6?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-</p>
-
----
-
-## ⚙️ Frameworks
-<p align="center">
   <img src="https://img.shields.io/badge/React-CDEFE6?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/FastAPI-D6F5EC?style=for-the-badge&logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/Firebase-FFE9A8?style=for-the-badge&logo=firebase&logoColor=black" />
