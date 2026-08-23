@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="380" />
 </p>
 
-<h1 align="center">Hey, I'm Bhargavi — I build things that (mostly) don't break</h1>
+<h1 align="center">Hey, I'm Bhargavi ..I build things that (mostly) don't break:))</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6DD3CE&center=true&vCenter=true&width=650&lines=Secure+Backend+Engineer+%F0%9F%94%90;Cloud+%2B+AI+Security+Explorer+%E2%98%81%EF%B8%8F;99+bugs+in+the+code%2C+99+bugs...+%F0%9F%90%9B" />
@@ -16,25 +16,15 @@
 
 <p align="center">✨ ─ 🍵 ─ ✨</p>
 
----
+# Bhargavi 🌀💻
 
-# 🚀 About Me
-
-- 🧠 Build **efficient software applications**
-- ⚙️ Focus on **backend architecture + system design**
-- 🤖 Work with **RAG, embeddings & intelligent retrieval systems**
-- 🔐 Interested in **security in AI + cloud environments**
-- ☁️ Explore **cloud-native deployments (AWS)**
-- 🎯 Aim for **scalable, secure, production-ready systems**
-
-<p align="center">✧･ﾟ: *✧･ﾟ:* 　　 *:･ﾟ✧*:･ﾟ✧</p>
-
-<p align="center">
-  <img src="https://i.imgflip.com/1bij.jpg" width="380" alt="it works on my machine meme" />
-  <br><sub><i>the eternal debugging cycle</i></sub>
-</p>
+![Overthinker](https://img.shields.io/badge/🌀-Overthinker-blueviolet?style=for-the-badge)
+![Coder](https://img.shields.io/badge/💻-Coder-success?style=for-the-badge)
+![Film Line](https://img.shields.io/badge/🎬-"Genius%2C%20billionaire%2C%20playboy%2C%20philanthropist"-orange?style=for-the-badge)
 
 ---
+✨ Okay, maybe just coder.
+
 
 # 🧩 Core Areas
 
