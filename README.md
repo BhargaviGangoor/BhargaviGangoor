@@ -1,16 +1,5 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://img.shields.io/badge/BHARGAVI-6DD3CE?style=for-the-badge&labelColor=1F2A44" />
-</p>
-
-<h1 align="center">🌿 Hey, I'm Bhargavi 🌿</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=6DD3CE&center=true&vCenter=true&width=600&lines=RAG+Systems+Builder;Secure+Backend+Engineer;Cloud+%2B+AI+Security+Explorer;Building+Real+World+Systems" />
-</p>
-
-<p align="center">⋆ ─ ✦ ─ ⋆</p>
-
+<!-- Header Banner --> 
+<p align="center"> <img src="https://img.shields.io/badge/BHARGAVI-6DD3CE?style=for-the-badge&labelColor=1F2A44&logo=sparkles&logoColor=white" /> <img src="https://img.shields.io/badge/probably%20debugging%20rn-CDEFE6?style=for-the-badge&labelColor=1F2A44" /> </p> <h1 align="center"> <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="28" /> Hey, I'm Bhargavi — I build things that (mostly) don't break <img src="https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif" width="28" /> </h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6DD3CE&center=true&vCenter=true&width=650&lines=RAG+Systems+Builder+%F0%9F%A7%A0;Secure+Backend+Engineer+%F0%9F%94%90;Cloud+%2B+AI+Security+Explorer+%E2%98%81%EF%B8%8F;Ships+code%2C+not+excuses+%F0%9F%9A%80;99+bugs+in+the+code%2C+99+bugs...+%F0%9F%90%9B" /> </p> <p align="center">✨ ─ 🍵 ─ ✨</p>
 ---
 
 # 🚀 About Me
